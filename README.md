@@ -4,7 +4,7 @@ A machine learning pipeline for detecting phishing scams, adult-bait bots, and e
 
 ---
 
-## 🎯 Problem
+## Problem
 
 YouTube comment sections are frequently targeted by:
 
@@ -24,7 +24,7 @@ This project builds a structured ML pipeline to detect and categorize suspicious
 
 ---
 
-## 🧠 Project Phases
+## Project Phases
 
 ### Phase 1 – Data Collection
 - Use YouTube Data API
@@ -49,7 +49,7 @@ This project builds a structured ML pipeline to detect and categorize suspicious
 
 ---
 
-## 📊 Target Metrics
+## Target Metrics
 
 - High precision on `phishing_scam` and `adult_bait`
 - Clear confusion matrix reporting
@@ -57,7 +57,7 @@ This project builds a structured ML pipeline to detect and categorize suspicious
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - Python
 - YouTube Data API
@@ -67,7 +67,7 @@ This project builds a structured ML pipeline to detect and categorize suspicious
 
 ---
 
-## 🚀 Future Extensions
+## Future Extensions
 
 - Similarity detection for copypasta bots
 - URL domain reputation scoring
